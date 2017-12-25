@@ -1,0 +1,6 @@
+/**index.wxss**/
+.cout-down-sec {
+  color: #ff3976;
+  font-size: 28rpx;
+  margin-top: 50rpx;
+}

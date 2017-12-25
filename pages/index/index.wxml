@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="cout-down-sec">{{sec}}</view>
+</view>
